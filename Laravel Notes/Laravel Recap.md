@@ -1,0 +1,9 @@
+1. Install
+2. .env
+3. Migrations
+4. Models
+5. Factories
+6. Seeders
+7. Routes
+8. Controllers
+9. Cleaning
