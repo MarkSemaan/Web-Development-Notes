@@ -117,3 +117,8 @@ class User extends Authenticatable implements JWTSubject
     }
 }
 ```
+
+### Notes:
+![[Pasted image 20250718172835.png]]
+![[Pasted image 20250718173437.png]]
+![[Pasted image 20250718174828.png]]
